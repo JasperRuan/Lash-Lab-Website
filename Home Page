@@ -1,0 +1,31 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>LASHLAB</title>
+</head>
+
+<body>
+<br />
+<h1>LASHLAB</h1>
+<hr />
+<h2><em>Angela Eyelash Extension</em></h2>
+<br />
+<h1>Welcome</h1>
+<p>Introduction about LASHLAB</p>
+<br />
+<br />
+<br />
+<h2>We provide the following servise</h2>
+<p><a href="extension.html">Eyelash Extension</a></p>
+<br />
+<p><a href="fix.html">Fix eyelash</a></p>
+<br />
+<p><a href="consotance.html">Free Advise</a></p>
+
+<br />
+<br />
+<br />
+<hr />
+<p><strong><a href="Booking page.html">Online Booking</a></strong></p>
+</body>
+</html>
